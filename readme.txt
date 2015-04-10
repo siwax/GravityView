@@ -20,7 +20,10 @@ Beautifully display your Gravity Forms entries. Learn more on [GravityView.co](h
 
 == Changelog ==
 
-= 1.7.4.1 =
+= 1.7.4.2 =
+* Fixed: Include path to license manager
+
+= 1.7.4.1 on April 7 =
 * Fixed: Fatal error when attempting to view entry that does not exist (introduced in 1.7.4)
 * Updated: Turkish translation by [@suhakaralar](https://www.transifex.com/accounts/profile/suhakaralar/). Thanks!
 
